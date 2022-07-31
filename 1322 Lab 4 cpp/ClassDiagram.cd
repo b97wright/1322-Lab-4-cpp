@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Account">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgACAAAAAAAAAAAAAAACABAgAAAAAIgAAAEA=</HashCode>
+      <FileName>Account.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Checking">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAABAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Checking.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Savings">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Savings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
